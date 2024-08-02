@@ -16,7 +16,7 @@
 ## Project Overview
 
 This project involved the comprehensive analysis of marketing campaign data for a Phantom firm, focusing on identifying the most effective campaigns, optimizing funding, and providing actionable insights for future marketing strategies for its top 5 clients. The analysis was conducted using Excel, SQL and Tableau, leveraging marketing campaign data to ensure accuracy and relevance.
-The project plan was made using Agile and problem statement can be found here [project plan](problem statement.PDF)
+The project plan was made using Agile and problem statement can be found in the file "problem statement.PDF"
 An interactive version of the dashboard visualisation has been pubished on [Tableau Public.](https://public.tableau.com/app/profile/blessing.godwin3292/viz/campaign_17224191582780/Dashboard1?publish=yes)
 
 ## Introduction
@@ -173,7 +173,7 @@ LIMIT 5; -- Top 5 campaigns with lowest ROI
 |Alpha Innovations         |   Email              |  2.00        |
 
 
-The SQL queries used in the project can be found in the [SQL analytics](SQL_analytics.sql)
+The SQL queries used in the project can be found in the "SQL analytics" file.
 
 ## Attribution Analysis
 
