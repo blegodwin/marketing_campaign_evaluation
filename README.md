@@ -6,9 +6,9 @@
 5. [Data Validation and Augumentation](#data-validation-and-augumentation)
 6. [Descriptive Analysis](#descriptive-analysis)
 7. [SQL Queries and Data Retrieval](#sql-queries-and-data-retrieval)
-8. [Attributed Analysis](#attributed-analysis)
+8. [Attribution Analysis](#attribution-analysis)
 9. [Ad-Hoc Analyses](#ad-hoc-analyses)
-10. [Dashboard Visualsation](#dashboard-visualsation)
+10. [Dashboard Visualisation](#dashboard-visualisation)
 11. [Insights](#insights)
 12. [Strategic Reccommendation](#strategic-reccommendation)
 13. [Conclusion](#conclusion)
@@ -16,7 +16,7 @@
 ## Project Overview
 
 This project involved the comprehensive analysis of marketing campaign data for a Phantom firm, focusing on identifying the most effective campaigns, optimizing funding, and providing actionable insights for future marketing strategies for its top 5 clients. The analysis was conducted using Excel, SQL and Tableau, leveraging marketing campaign data to ensure accuracy and relevance.
-The project plan and problem statement can be found here [project plan](project_pllan.PDF)
+The project plan was made using Agile and problem statement can be found here [project plan](problem statement.PDF)
 An interactive version of the dashboard visualisation has been pubished on [Tableau Public.](https://public.tableau.com/app/profile/blessing.godwin3292/viz/campaign_17224191582780/Dashboard1?publish=yes)
 
 ## Introduction
@@ -48,8 +48,11 @@ The following steps were taken to assess the data quality and ensure data comple
 -**Verification of ROI:** To verify the ROI column provided for accuracy, Revenue and Revenue Per Click (RPC) data were recovered using formulas. 
 
 -**Data Augumentation:** The Revenue and RPC columns were calculated for using formulas and autofill and computed using:
+
     - Total Revenue = (Conversion Rate / 100) * Clicks
+    
     - Revenue_per_click = (Total_Revenue) / (Total_Clicks)
+    
     - ROI = ( Revenue - Acquisition Cost) / Acquisition Cost
 
 ## Descriptive Analysis:
@@ -170,7 +173,7 @@ LIMIT 5; -- Top 5 campaigns with lowest ROI
 |Alpha Innovations         |   Email              |  2.00        |
 
 
-The SQL queries used in the project can be found in the [SQL analytics](SQL_analytics.sql) file. [File Name](filename.ext)
+The SQL queries used in the project can be found in the [SQL analytics](SQL_analytics.sql)
 
 ## Attribution Analysis
 
@@ -196,7 +199,7 @@ Ad-hoc analyses were performed to identify trends and patterns in the dataset. T
 
 This section showcases the dashboard that provides insights into marketing campaign performance.
 
-![Dashboard](marketing/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 
 ## Insights
@@ -258,4 +261,4 @@ Continue or even increase funding for search campaigns. They offer high returns 
 
 ## Conclusion
 
-This project provided a comprehensive analysis of Phantom Firm's marketing campaigns, offering valuable insights and actionable recommendations. The key responsibilities outlined above ensured that the analysis was thorough, accurate, and aligned with the business needs. The outcomes of this project will help Phantom Firm optimize their marketing strategies and achieve better results in future campaigns. 
+This project provided a comprehensive analysis of Phantom Firm's marketing campaigns, offering valuable insights and actionable recommendations. The key responsibilities outlined above ensured that the analysis was thorough, accurate, and aligned with the business needs. The outcomes of this project will help Phantom Firm optimise their marketing strategies and achieve better results in future campaigns. 
