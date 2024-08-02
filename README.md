@@ -198,7 +198,7 @@ Ad-hoc analyses were performed to identify trends and patterns in the dataset. T
 
 This section showcases the dashboard that provides insights into marketing campaign performance.
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 
 ## Insights
